@@ -6,8 +6,8 @@ Pilot AICON can use sensors, camera and differents signals types, like Wifi, blu
 
 _Resources_
 
->Web Interface
->Autonomous movement
->Decision making process
->Read Temp, infrared, voltage, current, ultrasonic and more sensors.
->Auto Stop on signal disconnect or obstacle detected
+>Web Interface.  
+>Autonomous movement.  
+>Decision making process.  
+>Read Temp, infrared, voltage, current, ultrasonic and more sensors.  
+>Auto Stop on signal disconnect or obstacle detected.  
